@@ -1,0 +1,1 @@
+ALTER TABLE `spots` ADD `mutation_id` text;

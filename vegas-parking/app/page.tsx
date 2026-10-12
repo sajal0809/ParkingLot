@@ -1,0 +1,2 @@
+import ParkingApp from "./parking-app";
+export default function Page(){return <ParkingApp/>}
